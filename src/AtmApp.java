@@ -9,5 +9,7 @@ public class AtmApp {
         //version3
         System.out.println("javayi ogrenmek cok kolay");
         //version4
+        System.out.println("omer branchi kodlarini yazdi.");
+        //omr1
     }
 }
