@@ -13,5 +13,9 @@ public class AtmApp {
         //omr1
         System.out.println("");
         //omr3
+        System.out.println("");
+        if (true){
+
+        }
     }
 }
