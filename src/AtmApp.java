@@ -11,5 +11,7 @@ public class AtmApp {
         //version4
         System.out.println("omer branchi kodlarini yazdi.");
         //omr1
+        System.out.println("");
+        //omr3
     }
 }
