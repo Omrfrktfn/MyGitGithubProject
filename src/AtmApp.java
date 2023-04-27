@@ -17,5 +17,6 @@ public class AtmApp {
         if (true){
 
         }
+        //remote repoda degisiklik yaptim
     }
 }
